@@ -1,0 +1,12 @@
+C:\Users\eggle\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\eggle\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\eggle\source\repos\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\eggle\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\eggle\source\repos\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\eggle\source\repos\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\eggle\source\repos\Calculator2\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\eggle\source\repos\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\eggle\source\repos\Calculator3\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\eggle\source\repos\Calculator3\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\eggle\source\repos\Calculator3\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\eggle\source\repos\Calculator3\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
