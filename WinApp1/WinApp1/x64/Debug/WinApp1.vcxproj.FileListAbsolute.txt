@@ -1,0 +1,4 @@
+C:\Users\eggle\source\repos\WinApp1\WinApp1\x64\Debug\WinApp1.vcxproj.AssemblyReference.cache
+C:\Users\eggle\source\repos\WinApp1\WinApp1\x64\Debug\WinApp1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\eggle\source\repos\WinApp1\WinApp1\x64\Debug\WinApp1.MyForm.resources
+C:\Users\eggle\source\repos\WinApp1\WinApp1\x64\Debug\WinApp1.vcxproj.GenerateResource.cache
