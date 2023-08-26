@@ -1,0 +1,5 @@
+C:\Users\eggle\source\repos\Browser\x64\Debug\Browser.vcxproj.AssemblyReference.cache
+C:\Users\eggle\source\repos\Browser\x64\Debug\Browser.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\eggle\source\repos\Browser\x64\Debug\Browser.exe
+C:\Users\eggle\source\repos\Browser\x64\Debug\Browser.MyForm.resources
+C:\Users\eggle\source\repos\Browser\x64\Debug\Browser.vcxproj.GenerateResource.cache
